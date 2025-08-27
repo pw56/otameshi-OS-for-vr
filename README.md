@@ -27,7 +27,7 @@ Linuxをベースにしようとしています。
 ## 使用プログラミング言語
 - C++
 
-# 開発環境
+## 開発環境
 - OS : Ubuntu
 - エディタ : Visual Studio Code
 - コンパイラ : gcc
